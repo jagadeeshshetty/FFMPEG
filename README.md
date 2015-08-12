@@ -1,7 +1,7 @@
 # FFMPEG
 FFMPEG command usage
 
-Rotate video
+# Rotate video
 $ ffmpeg -i input_file -vf transpose_parameter output_file
 
 Ex:
